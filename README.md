@@ -1,6 +1,5 @@
 # GildedRose Ruby Refactoring Challenge
 
---------------------------------------
 Requirements Specification
 --------------------------------------
 
